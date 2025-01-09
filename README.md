@@ -79,7 +79,7 @@ By using the Xiaomi Debloater Script, you’re embracing minimalism and efficien
 ---
 
 ## 🤝 **Contributing**
-We welcome contributions to make the script better and more robust. If you have suggestions or improvements, feel free to create a pull request or open an issue on the [GitHub repository]([https://github.com/your-repo](https://github.com/myself-626)).
+We welcome contributions to make the script better and more robust. If you have suggestions or improvements, feel free to create a pull request or open an issue on the [GitHub repository]([[https://github.com/your-repo](https://github.com/myself-626)](https://github.com/myself-626/HyperOS-MIUI-debloat-1-click/issues)).
 
 ---
 

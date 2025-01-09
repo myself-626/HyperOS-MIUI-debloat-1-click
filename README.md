@@ -84,7 +84,7 @@ We welcome contributions to make the script better and more robust. If you have 
 ---
 
 ## 💬 **Support**
-If you encounter any issues or have questions, visit our [Discussions](https://github.com/your-repo/discussions) page. You can also reach out to us directly via GitHub.
+If you encounter any issues or have questions, visit our [Discussions]() page. You can also reach out to us directly via GitHub.
 
 ---
 

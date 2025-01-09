@@ -79,7 +79,7 @@ By using the Xiaomi Debloater Script, you’re embracing minimalism and efficien
 ---
 
 ## 🤝 **Contributing**
-We welcome contributions to make the script better and more robust. If you have suggestions or improvements, feel free to create a pull request or open an issue on the [GitHub repository](https://github.com/your-repo).
+We welcome contributions to make the script better and more robust. If you have suggestions or improvements, feel free to create a pull request or open an issue on the [GitHub repository]([https://github.com/your-repo](https://github.com/myself-626)).
 
 ---
 
@@ -91,5 +91,5 @@ If you encounter any issues or have questions, visit our [Discussions](https://g
 ## ⚡ **Get Started Today!**
 Download the script and reclaim control over your Xiaomi device. Simplify your experience and optimize performance with just a few clicks.
 
-**[Download Now](https://github.com/your-repo/releases)**
+**[Download Now](https://github.com/myself-626/HyperOS-MIUI-debloat-1-click/releases/tag/debloat)**
 

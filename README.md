@@ -19,7 +19,7 @@ This script is intended for **educational purposes only**. It is especially help
 
 ## 📥 **Download**
 
-You can download the latest version of the script from the [Releases](https://github.com/your-repo/releases) page on GitHub. Ensure that you are always using the most recent version for optimal compatibility and performance.
+You can download the latest version of the script from the [Releases](https://github.com/myself-626/HyperOS-MIUI-debloat-1-click/releases/tag/debloat) page on GitHub. Ensure that you are always using the most recent version for optimal compatibility and performance.
 
 ---
 
@@ -42,7 +42,7 @@ You can download the latest version of the script from the [Releases](https://gi
 2. Make sure the connection is stable and your device is recognized by ADB.
 
 ### Step 5: Run the Script
-1. Download the script file from the [Releases](https://github.com/your-repo/releases) page.
+1. Download the script file from the [Releases]([https://github.com/your-repo/releases](https://github.com/myself-626/HyperOS-MIUI-debloat-1-click/releases/tag/debloat)) page.
 2. Double-click on the script file to execute it.
 3. Follow the on-screen instructions to complete the uninstallation process.
 
